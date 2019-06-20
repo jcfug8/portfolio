@@ -79,7 +79,7 @@ button {
     display: block;
     padding-top: 5px;
     padding-bottom: 5px;
-    font-size: 2.5rem;
+    font-size: 2.2rem;
     color: white !important;
 }
 
@@ -99,6 +99,7 @@ button {
 }
 
 #navigation-container a {
+    font-size: 20px;
     color: white;
     display: inline-block;
     padding: 25px 40px 25px 0;
@@ -354,7 +355,7 @@ footer {
     }
 
     .home-header-title {
-        font-size: 64px;
+        font-size: 64px !important;
     }
 
     .home-tag-line {
